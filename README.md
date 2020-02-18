@@ -1,3 +1,3 @@
 # School-database
  * Developed my own shool data base 
- * Created requests for this data base
+ * Created SQL requests for this data base
